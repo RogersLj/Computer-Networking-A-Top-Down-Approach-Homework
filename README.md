@@ -18,3 +18,11 @@
   - [3. Retrieving Long Documents](https://github.com/RogersLj/Computer-Networking-A-Top-Down-Approach-Homework/blob/master/Wireshark_Labs/HTTP/homework3.pdf)
   - [4. HTML Documents with Embedded Objects](https://github.com/RogersLj/Computer-Networking-A-Top-Down-Approach-Homework/blob/master/Wireshark_Labs/HTTP/homework4.pdf)
   - [5 HTTP Authentication](https://github.com/RogersLj/Computer-Networking-A-Top-Down-Approach-Homework/blob/master/Wireshark_Labs/HTTP/homework5.pdf)
+
+
+
+### 3. DNS
+
+- official document **7th ed.**: [**Wireshark_DNS_v7.0.pdf**](https://github.com/RogersLj/Computer-Networking-A-Top-Down-Approach-Homework/blob/master/Wireshark_Labs/DNS/Wireshark_DNS_v7.0.pdf)
+- official document **8th ed.**: [**Wireshark_DNS_v8.0.pdf**](https://github.com/RogersLj/Computer-Networking-A-Top-Down-Approach-Homework/blob/master/Wireshark_Labs/DNS/Wireshark_DNS_v8.0.pdf)
+- homework: [All tasks](https://github.com/RogersLj/Computer-Networking-A-Top-Down-Approach-Homework/blob/master/Wireshark_Labs/DNS/homework.pdf)
